@@ -1,1 +1,1 @@
-SSRF Test
+Server side request forgery test.
